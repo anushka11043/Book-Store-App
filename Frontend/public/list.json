@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Dragons don't sleep here.",
+        "price" : 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793725.jpg?ga=GA1.1.2102014294.1749409853&semt=ais_hybrid&w=740"
+    }
+    ,
+    {
+        "id": 2,
+        "name": "Comedy Book",
+        "title": "Oops! I Did Nothing Again",
+        "price" : 20,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/young-man-performing-singing-stage_1308-79867.jpg?ga=GA1.1.2102014294.1749409853&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Music Book",
+        "title": "Melody in the Silence",
+        "price" :0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/digital-art-portrait-person-listening-music-headphones_23-2151065050.jpg?ga=GA1.1.2102014294.1749409853&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 4,
+        "name": "History Book",
+        "title": "The Industrial Revolution",
+        "price" : 80,
+        "category": "Free",
+        "image": " https://img.freepik.com/free-photo/postcard-canal-venice_1160-163.jpg?ga=GA1.1.2102014294.1749409853&semt=ais_hybrid&w=740"
+    },{
+        "id": 5,
+        "name": "Cultural History",
+        "title": "Ancient Festivals and Traditions",
+        "price" : 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/little-girl-being-fairy_52683-34889.jpg?ga=GA1.1.2102014294.1749409853&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Food Book",
+        "title": "The Art of Eating",
+        "price" : 200,
+        "category": "Food",
+        "image": "https://img.freepik.com/free-photo/child-hand-trying-reach-food-table_23-2149333950.jpg?ga=GA1.1.2102014294.1749409853&semt=ais_hybrid&w=740"
+    }
+
+]
